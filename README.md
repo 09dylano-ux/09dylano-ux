@@ -8,7 +8,7 @@ I enjoy taking an idea that sounds like *"that would be cool"* and turning it in
 
 <div align="left">
 
-[![Target Role](https://img.shields.io/badge/Looking%20for-\[ROLE\]-5865F2?style=for-the-badge)](#)
+[![Target Role](https://img.shields.io/badge/Looking%20for-\[Game/Software_developer\]-5865F2?style=for-the-badge)](#)
 
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:09dylano@gmail.com)
 
