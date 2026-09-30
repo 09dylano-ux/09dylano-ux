@@ -1,8 +1,8 @@
-# Hey! I'm **[Your Name]** 👋
+# Hey! I'm Dylan 👋
 
-> ☕ **[Software Engineer / Game Developer / AI Developer]** who likes building things, breaking things, and figuring out *why* they broke.
+> ☕ Software Engineer / Game Developer / AI Developer who likes building things, breaking things, and figuring out *why* they broke.
 
-I'm a **[student / self-taught developer / aspiring software engineer]** based in **[Location]**, currently focused on **[your main area — e.g. game development, software engineering, AI, cloud systems]**.
+I'm a student based in North Carolina, currently focused on software engineering.
 
 I enjoy taking an idea that sounds like *"that would be cool"* and turning it into something that actually works.
 
@@ -10,8 +10,7 @@ I enjoy taking an idea that sounds like *"that would be cool"* and turning it in
 
 [![Target Role](https://img.shields.io/badge/Looking%20for-\[ROLE\]-5865F2?style=for-the-badge)](#)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)]([YOUR LINKEDIN URL])
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:[YOUR EMAIL])
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:09dylano@gmail.com)
 
 </div>
 
