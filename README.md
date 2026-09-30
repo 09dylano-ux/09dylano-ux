@@ -1,16 +1,16 @@
 # Hey! I'm Dylan 👋
 
-> ☕ Software Engineer / Game Developer / AI Developer who likes building things, breaking things, and figuring out *why* they broke.
+> ☕ **Software Engineer / Game Developer / AI Developer** who likes building things, breaking things, and figuring out *why* they broke.
 
-I'm a student based in North Carolina, currently focused on software engineering.
+I'm a student based in **North Carolina**, currently focused on **software engineering, game development, and AI**.
 
 I enjoy taking an idea that sounds like *"that would be cool"* and turning it into something that actually works.
 
 <div align="left">
 
-[![Target Role](https://img.shields.io/badge/Looking%20for-\[Game/Software_developer\]-5865F2?style=for-the-badge)](#)
+[![Target Role](https://img.shields.io/badge/Looking%20for-Game%20%2F%20Software%20Developer-5865F2?style=for-the-badge)](#)
 
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:09dylano@gmail.com)
+📧 [Email Me](mailto:09dylano@gmail.com)
 
 </div>
 
@@ -18,20 +18,20 @@ I enjoy taking an idea that sounds like *"that would be cool"* and turning it in
 
 ## 🚀 A Little About Me
 
-I'm passionate about **[software / games / AI / systems / cloud / etc.]**, especially when I get to build something from the ground up.
+I'm passionate about **software, games, AI, and systems**, especially when I get to build something from the ground up.
 
-Right now, I'm working toward becoming a **[target career]**, with a particular interest in **[2–3 areas]**.
+Right now, I'm working toward becoming a **Game & Software Engineer**, with a particular interest in the technical side of interactive systems and AI.
 
 A few things about me:
 
-* 🔭 **Currently building:** [Your current project]
-* 🧠 **Currently learning:** [Technology / concept you're learning]
-* 🎮 **Big interest:** [Game development / game systems / AI / etc.]
-* 🤖 **I love:** [AI / automation / graphics / backend systems / etc.]
-* ☕ **Development fuel:** [Coffee / energy drinks / unreasonable amounts of tea]
+* 🔭 **Currently building:** A 3D FPS game
+* 🧠 **Currently learning:** Large-scale AI handling
+* 🎮 **Big interest:** Game development & AI
+* 🤖 **I love:** Automation, AI & backend systems
+* ☕ **Development fuel:** Coffee
 * 🌱 **Always trying to:** Learn something I couldn't build yesterday
-* 💬 **Ask me about:** [Your favorite technical topics]
-* 🎯 **Long-term goal:** [Where you'd love to end up]
+* 💬 **Ask me about:** Physics simulation • Multithreading • Real-time systems
+* 🎯 **Long-term goal:** Passionately creating software that helps make the world a little better
 
 > **My philosophy:** I'd rather build something interesting and learn from it than wait until I know everything first.
 
@@ -57,8 +57,6 @@ Things I'm interested in:
 * Procedural generation
 * Game AI
 
-**Currently:** [What you're working on]
-
 ---
 
 ### 🤖 AI & Automation
@@ -67,18 +65,18 @@ AI is one of the areas I'm most excited about.
 
 I like experimenting with **AI that actually does things**, rather than just asking a model questions.
 
-Some things I've worked with:
+Some areas I'm interested in:
 
-* [Local LLMs]
-* [AI agents]
-* [Discord / Twitch bots]
-* [Computer vision]
-* [Speech recognition]
-* [Text-to-speech]
-* [Automation]
-* [RAG / vector databases]
+* Local LLMs
+* AI agents
+* Discord / Twitch bots
+* Computer vision
+* Speech recognition
+* Text-to-speech
+* Automation
+* RAG & vector databases
 
-**Currently experimenting with:** [Your AI project]
+**Currently experimenting with:** Interactive AI characters in games.
 
 ---
 
@@ -98,91 +96,124 @@ I'm interested in:
 * CI/CD
 * Performance
 
-**Currently learning:** [Technology]
-
 ---
 
 # ⭐ Featured Projects
 
-> **Tip:** Don't try to show everything you've ever built here.
-> Pick **2–4 projects you're genuinely proud of.**
->
-> A recruiter should be able to look at this section and understand what you can build in about 30 seconds.
+I'm currently building a collection of smaller systems-focused projects to deepen my understanding of **game development, performance, and software engineering fundamentals**.
+
+### 🧠 Custom Memory Pool Allocator
+
+`C++20` `Memory Management`
+
+A custom memory allocator designed to explore how dynamic memory allocation works under the hood and how specialized allocation strategies can improve performance.
+
+**Focus:**
+
+* Memory management
+* Allocation strategies
+* Performance
+* Low-level C++
 
 ---
 
-## 🎮 [PROJECT NAME]
+### 🗺️ A* Pathfinding Visualizer
 
-`[C++]` `[OpenGL]` `[SDL]` `[Git]`
+`C++` / `C#`
 
-**[One sentence explaining what the project actually does.]**
+A visual implementation of the **A*** pathfinding algorithm that demonstrates how game characters and other agents can efficiently navigate a world.
 
-[Short 2–3 sentence explanation of why you built it and what you learned.]
+**Focus:**
 
-### What I Built
-
-* ⚙️ **[Technical accomplishment]**
-* 🚀 **[Performance / scalability accomplishment]**
-* 🧠 **[Interesting engineering problem you solved]**
-* 🎮 **[Game-related feature]**
-
-### What I Learned
-
-[1–2 sentences about the biggest thing you learned while building this.]
-
-🔗 **[View Repository]([REPOSITORY URL])**
+* Pathfinding
+* Graph algorithms
+* Heuristics
+* Game AI
+* Visualization
 
 ---
 
-## 🤖 [PROJECT NAME]
+### 🌳 Spatial Partitioning Quadtree
 
-`[Python]` `[LLM]` `[FastAPI]` `[Docker]`
+`C++` / `C#`
 
-**[One sentence explaining what it does.]**
+A custom quadtree implementation for efficiently organizing and querying objects in 2D space.
 
-[Explain the project in a way that someone unfamiliar with it can understand.]
+**Focus:**
 
-### Highlights
-
-* 🤖 **[AI capability]**
-* 🔌 **[API / integration]**
-* 🧠 **[Interesting technical challenge]**
-* 📈 **[Measured result, if you have one]**
-
-### Why I Built It
-
-[Short explanation of what made you want to build it.]
-
-🔗 **[View Repository]([REPOSITORY URL])**
+* Spatial partitioning
+* Collision detection
+* Search optimization
+* Data structures
+* Game performance
 
 ---
 
-## 🧰 [PROJECT NAME]
+### 📐 Custom 3D Math & Matrix Library
 
-`[Technology]` `[Technology]` `[Technology]`
+`C++`
 
-**[One-line description.]**
+A custom mathematical library built to better understand the mathematics behind 3D graphics and game engines.
 
-[Brief explanation.]
+**Focus:**
 
-* [Interesting feature]
-* [Interesting feature]
-* [Interesting feature]
-
-🔗 **[View Repository]([REPOSITORY URL])**
+* Vectors
+* Matrices
+* Transformations
+* 3D mathematics
+* Graphics programming
 
 ---
 
-# 💻 My Toolkit
+### 🌐 Multiplayer State Sync & Command Queue
 
-> This isn't a list of technologies I've touched once.
-> These are the tools I'm **actively learning, building with, or comfortable using.**
+`C#` / `Node.js` / `C++`
 
-### 🧠 Languages
+An exploration of how multiplayer games synchronize state between clients and servers while managing player commands and networked events.
+
+**Focus:**
+
+* Networking
+* Multiplayer architecture
+* State synchronization
+* Command queues
+* Real-time systems
+
+---
+
+# 🧰 Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-**Currently learning**
+---
+
+## 🎮 Technical Interests
+
+> The rabbit holes I currently enjoy falling into.
+
+**Game Development**
+Game engines • Rendering • Physics • Gameplay systems • Game AI
+
+**Systems**
+Memory management • Multithreading • Real-time systems • Performance optimization
+
+**AI**
+AI agents • Local LLMs • Voice AI • Computer vision • Interactive AI
+
+**Networking**
+Multiplayer architecture • State synchronization • Networking • Distributed systems
+
+---
+
+## 🌱 Always Learning
+
+I'm still early in my career, so this profile is going to change a lot.
+
+New projects, new technologies, new mistakes, and hopefully a lot of things I can look back on and say:
+
+> *"I can't believe I used to do it that way."*
+
+Thanks for stopping by! 👋
